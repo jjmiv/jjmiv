@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning *Python*
 - 👯 I’m looking to collaborate on Frontend and Infrastructure projects
 - 💬 Ask me about:
-  - cloud architecture
+  - devops, sre, cloud design
   - CICD
   - resume help
 - 📫 How to reach me: john[at]zanysweb[dot]org
