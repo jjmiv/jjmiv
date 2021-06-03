@@ -7,4 +7,4 @@
   - devops, sre, cloud design
   - CICD
   - resume help
-- 📫 How to reach me: john[at]zanysweb[dot]org
+- 📫 How to reach me: john[at]zanysweb[dot]info
